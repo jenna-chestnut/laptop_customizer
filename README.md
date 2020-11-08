@@ -9,5 +9,5 @@
 ➖➖**Feature Options**   
 ➖➖➖**Feature Options**  
 ➖**Cart**🔻   
-➖➖**CartItems**
+➖➖**CartItems**  
 ➖➖➖**Total**
